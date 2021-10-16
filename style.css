@@ -1,0 +1,10 @@
+body {
+    background-color: grey;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
